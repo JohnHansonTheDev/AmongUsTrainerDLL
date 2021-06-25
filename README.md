@@ -8,3 +8,9 @@ drop it into the Among US.exe file location
 Enjoy
 
 You probably have to deactivate your antivirus first, scans it as a trojan and nukes it
+
+All credit to Bitcracker and 
+
+Give them your star for doing such a nice jon, in C++
+
+https://github.com/BitCrackers/AmongUsMenu/
