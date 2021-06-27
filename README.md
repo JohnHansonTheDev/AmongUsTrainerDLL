@@ -5,6 +5,8 @@ Download DLL,
 
 drop it into the Among US.exe file location
 
+!hit DEL HOME for the menus to SHOW UP!
+
 Enjoy
 
 You probably have to deactivate your antivirus first, scans it as a trojan and nukes it
