@@ -5,7 +5,7 @@ Download DLL,
 
 drop it into the Among US.exe file location
 
-!hit DEL HOME for the menus to SHOW UP!
+!hit DEL(DELETE), HOME for the menus to SHOW UP!
 
 Enjoy
 
